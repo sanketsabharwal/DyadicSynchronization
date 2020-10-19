@@ -18,6 +18,6 @@ The added control helps perform experiments carefully, particularly since the da
 
 
 
-Author:
+##### Author
 
 Sanket Rajeev Sabharwal 4709433
