@@ -1,4 +1,5 @@
-# MastersThesis-DyadicSynchronization
+# Masters Thesis - Code Repository
+## Code to extract data and compute Dyadic Synchronization for co-performers in a musical ensemble
 
 Note:
 This repository contains the code that was developed in order to compute Dyadic Synchronization between co-performers in a small group of musicians. 
